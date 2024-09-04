@@ -1,0 +1,775 @@
+﻿  stdafx.cpp
+  CBmpMgr.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Define.h(58,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Vector2D' 왼쪽은 무시됩니다.
+  (소스 파일 '/CBmpMgr.cpp'을(를) 컴파일하는 중)
+  
+  CBomb.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Define.h(58,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Vector2D' 왼쪽은 무시됩니다.
+  (소스 파일 '/CBomb.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CBomb.cpp(140,108): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CBomb.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CBomb.cpp(140,90): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CBomb.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CBomb.cpp(140,72): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CBomb.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CBomb.cpp(140,45): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CBomb.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CBomb.cpp(150,107): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CBomb.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CBomb.cpp(150,94): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CBomb.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CBomb.cpp(150,82): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CBomb.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CBomb.cpp(150,49): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CBomb.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CBomb.cpp(158,107): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CBomb.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CBomb.cpp(158,94): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CBomb.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CBomb.cpp(158,82): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CBomb.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CBomb.cpp(158,49): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CBomb.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CBomb.cpp(168,108): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CBomb.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CBomb.cpp(168,90): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CBomb.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CBomb.cpp(168,72): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CBomb.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CBomb.cpp(168,45): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CBomb.cpp'을(를) 컴파일하는 중)
+  
+  CBoss.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\define.h(58,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Vector2D' 왼쪽은 무시됩니다.
+  (소스 파일 '/CBoss.cpp'을(를) 컴파일하는 중)
+  
+  CButton.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Define.h(58,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Vector2D' 왼쪽은 무시됩니다.
+  (소스 파일 '/CButton.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CButton.cpp(110,37): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CButton.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CButton.cpp(110,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CButton.cpp'을(를) 컴파일하는 중)
+  
+  CCollisionMgr.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\define.h(58,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Vector2D' 왼쪽은 무시됩니다.
+  (소스 파일 '/CCollisionMgr.cpp'을(를) 컴파일하는 중)
+  
+  CDynamiteMan.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\define.h(58,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Vector2D' 왼쪽은 무시됩니다.
+  (소스 파일 '/CDynamiteMan.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CDynamiteMan.cpp(130,10): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CDynamiteMan.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CDynamiteMan.cpp(129,10): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CDynamiteMan.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CDynamiteMan.cpp(128,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CDynamiteMan.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CDynamiteMan.cpp(127,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CDynamiteMan.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CDynamiteMan.cpp(148,121): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CDynamiteMan.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CDynamiteMan.cpp(154,121): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CDynamiteMan.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CDynamiteMan.cpp(163,121): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CDynamiteMan.cpp'을(를) 컴파일하는 중)
+  
+  CEdit.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\define.h(58,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Vector2D' 왼쪽은 무시됩니다.
+  (소스 파일 '/CEdit.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CEdit.cpp(41,75): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CEdit.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CEdit.cpp(41,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CEdit.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CEdit.cpp(90,21): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+  (소스 파일 '/CEdit.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CEdit.cpp(90,21): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CEdit.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CEdit.cpp(90,25): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+  (소스 파일 '/CEdit.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CEdit.cpp(90,25): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CEdit.cpp'을(를) 컴파일하는 중)
+  
+  CExplosion.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\define.h(58,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Vector2D' 왼쪽은 무시됩니다.
+  (소스 파일 '/CExplosion.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CExplosion.cpp(104,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CExplosion.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CExplosion.cpp(103,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CExplosion.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CExplosion.cpp(102,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CExplosion.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CExplosion.cpp(101,26): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CExplosion.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CExplosion.cpp(119,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CExplosion.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CExplosion.cpp(118,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CExplosion.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CExplosion.cpp(117,35): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CExplosion.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CExplosion.cpp(116,36): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CExplosion.cpp'을(를) 컴파일하는 중)
+  
+  CFire.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\define.h(58,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Vector2D' 왼쪽은 무시됩니다.
+  (소스 파일 '/CFire.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CFire.cpp(97,13): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CFire.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CFire.cpp(98,13): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CFire.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CFire.cpp(134,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CFire.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CFire.cpp(133,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CFire.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CFire.cpp(132,41): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CFire.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CFire.cpp(131,41): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CFire.cpp'을(를) 컴파일하는 중)
+  
+  CImageButton.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Define.h(58,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Vector2D' 왼쪽은 무시됩니다.
+  (소스 파일 '/CImageButton.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CImageButton.cpp(106,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CImageButton.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CImageButton.cpp(106,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CImageButton.cpp'을(를) 컴파일하는 중)
+  
+  CInGame.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\define.h(58,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Vector2D' 왼쪽은 무시됩니다.
+  (소스 파일 '/CInGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CInGame.cpp(138,80): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CInGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CInGame.cpp(138,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CInGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CInGame.cpp(167,96): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CInGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CInGame.cpp(167,81): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CInGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CInGame.cpp(167,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CInGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CInGame.cpp(167,40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CInGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CInGame.cpp(174,95): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CInGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CInGame.cpp(174,80): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CInGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CInGame.cpp(174,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CInGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CInGame.cpp(174,40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CInGame.cpp'을(를) 컴파일하는 중)
+  
+  CInven.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Define.h(58,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Vector2D' 왼쪽은 무시됩니다.
+  (소스 파일 '/CInven.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CInven.cpp(40,10): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CInven.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CInven.cpp(39,10): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CInven.cpp'을(를) 컴파일하는 중)
+  
+  CInvenMgr.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\define.h(58,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Vector2D' 왼쪽은 무시됩니다.
+  (소스 파일 '/CInvenMgr.cpp'을(를) 컴파일하는 중)
+  
+  CItem.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Define.h(58,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Vector2D' 왼쪽은 무시됩니다.
+  (소스 파일 '/CItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CItem.cpp(33,18): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CItem.cpp(34,18): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CItem.cpp(84,64): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CItem.cpp(84,41): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CItem.cpp(91,64): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CItem.cpp(91,41): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CItem.cpp(93,64): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CItem.cpp(93,41): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CItem.cpp(95,71): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CItem.cpp(95,44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CItem.cpp(98,106): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CItem.cpp(98,80): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CItem.cpp(98,55): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CItem.cpp(98,32): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CItem.cpp(122,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CItem.cpp(122,39): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CItem.cpp(178,55): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CItem.cpp(178,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CItem.cpp(226,39): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CItem.cpp(226,27): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CItem.cpp(228,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CItem.cpp(228,31): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CItem.cpp(241,39): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CItem.cpp(241,27): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CItem.cpp(243,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CItem.cpp(243,31): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CItem.cpp'을(를) 컴파일하는 중)
+  
+  CKeyMgr.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Define.h(58,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Vector2D' 왼쪽은 무시됩니다.
+  (소스 파일 '/CKeyMgr.cpp'을(를) 컴파일하는 중)
+  
+  CMainMenu.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\define.h(58,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Vector2D' 왼쪽은 무시됩니다.
+  (소스 파일 '/CMainMenu.cpp'을(를) 컴파일하는 중)
+  
+  CMelee.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\define.h(58,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Vector2D' 왼쪽은 무시됩니다.
+  (소스 파일 '/CMelee.cpp'을(를) 컴파일하는 중)
+  
+  CMissile.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\define.h(58,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Vector2D' 왼쪽은 무시됩니다.
+  (소스 파일 '/CMissile.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CMissile.cpp(81,99): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CMissile.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CMissile.cpp(81,86): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CMissile.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CMissile.cpp(81,68): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CMissile.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CMissile.cpp(81,45): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CMissile.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CMissile.cpp(88,109): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CMissile.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CMissile.cpp(88,83): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CMissile.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CMissile.cpp(88,58): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CMissile.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CMissile.cpp(88,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CMissile.cpp'을(를) 컴파일하는 중)
+  
+  CMonster.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Define.h(58,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Vector2D' 왼쪽은 무시됩니다.
+  (소스 파일 '/CMonster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CMonster.cpp(106,31): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CMonster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CMonster.cpp(173,34): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+  (소스 파일 '/CMonster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CMonster.cpp(175,34): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+  (소스 파일 '/CMonster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CMonster.cpp(285,192): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CMonster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CMonster.cpp(285,178): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CMonster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CMonster.cpp(285,159): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CMonster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CMonster.cpp(285,132): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CMonster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CMonster.cpp(285,107): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CMonster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CMonster.cpp(285,93): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CMonster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CMonster.cpp(285,74): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CMonster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CMonster.cpp(285,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CMonster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CMonster.cpp(298,127): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CMonster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CMonster.cpp(313,127): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CMonster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CMonster.cpp(322,127): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CMonster.cpp'을(를) 컴파일하는 중)
+  
+  CMyBmp.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\define.h(58,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Vector2D' 왼쪽은 무시됩니다.
+  (소스 파일 '/CMyBmp.cpp'을(를) 컴파일하는 중)
+  
+  컴파일하고 있습니다...
+  CNumber.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Define.h(58,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Vector2D' 왼쪽은 무시됩니다.
+  (소스 파일 '/CNumber.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CNumber.cpp(58,52): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CNumber.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CNumber.cpp(58,28): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CNumber.cpp'을(를) 컴파일하는 중)
+  
+  CObjMgr.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\define.h(58,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Vector2D' 왼쪽은 무시됩니다.
+  (소스 파일 '/CObjMgr.cpp'을(를) 컴파일하는 중)
+  
+  CScene.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\define.h(58,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Vector2D' 왼쪽은 무시됩니다.
+  (소스 파일 '/CScene.cpp'을(를) 컴파일하는 중)
+  
+  CSceneMgr.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\define.h(58,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Vector2D' 왼쪽은 무시됩니다.
+  (소스 파일 '/CSceneMgr.cpp'을(를) 컴파일하는 중)
+  
+  CScrollMgr.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Define.h(58,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Vector2D' 왼쪽은 무시됩니다.
+  (소스 파일 '/CScrollMgr.cpp'을(를) 컴파일하는 중)
+  
+  CSoundMgr.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Define.h(58,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Vector2D' 왼쪽은 무시됩니다.
+  (소스 파일 '/CSoundMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CSoundMgr.cpp(110,14): warning C4244: '초기화 중': 'intptr_t'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CSoundMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CSoundMgr.cpp(133,16): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CSoundMgr.cpp'을(를) 컴파일하는 중)
+  
+  CStats.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Define.h(58,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Vector2D' 왼쪽은 무시됩니다.
+  (소스 파일 '/CStats.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CStats.cpp(75,122): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CStats.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CStats.cpp(75,106): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CStats.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CStats.cpp(75,80): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CStats.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CStats.cpp(75,62): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CStats.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CStats.cpp(87,136): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CStats.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CStats.cpp(87,120): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CStats.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CStats.cpp(87,94): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CStats.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CStats.cpp(87,76): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CStats.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CStats.cpp(97,134): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CStats.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CStats.cpp(97,118): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CStats.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CStats.cpp(97,92): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CStats.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CStats.cpp(97,75): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CStats.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CStats.cpp(109,61): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CStats.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CStats.cpp(109,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CStats.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CStats.cpp(117,131): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CStats.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CStats.cpp(117,100): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CStats.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CStats.cpp(117,61): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CStats.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CStats.cpp(117,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CStats.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CStats.cpp(137,62): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CStats.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CStats.cpp(152,62): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CStats.cpp'을(를) 컴파일하는 중)
+  
+  CTileMgr.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\define.h(58,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Vector2D' 왼쪽은 무시됩니다.
+  (소스 파일 '/CTileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CTileMgr.cpp(292,6): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CTileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CTileMgr.cpp(291,6): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CTileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CTileMgr.cpp(287,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CTileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CTileMgr.cpp(286,41): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CTileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CTileMgr.cpp(299,18): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CTileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CTileMgr.cpp(298,40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CTileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CTileMgr.cpp(311,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CTileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CTileMgr.cpp(310,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CTileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CTileMgr.cpp(324,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CTileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CTileMgr.cpp(323,41): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CTileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CTileMgr.cpp(336,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CTileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CTileMgr.cpp(335,42): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CTileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CTileMgr.cpp(353,6): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CTileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CTileMgr.cpp(352,6): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CTileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CTileMgr.cpp(348,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CTileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CTileMgr.cpp(347,41): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CTileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CTileMgr.cpp(373,26): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CTileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CTileMgr.cpp(372,48): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CTileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CTileMgr.cpp(817,10): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CTileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CTileMgr.cpp(863,29): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CTileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CTileMgr.cpp(877,29): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CTileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CTileMgr.cpp(884,20): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CTileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CTileMgr.cpp(885,21): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CTileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CTileMgr.cpp(886,23): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CTileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CTileMgr.cpp(887,22): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CTileMgr.cpp'을(를) 컴파일하는 중)
+  
+  DefaultWindow.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Define.h(58,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Vector2D' 왼쪽은 무시됩니다.
+  (소스 파일 '/DefaultWindow.cpp'을(를) 컴파일하는 중)
+  
+  MainGame.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Define.h(58,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Vector2D' 왼쪽은 무시됩니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+  Obj.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Define.h(58,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Vector2D' 왼쪽은 무시됩니다.
+  (소스 파일 '/Obj.cpp'을(를) 컴파일하는 중)
+  
+  Player.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Define.h(58,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Vector2D' 왼쪽은 무시됩니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Player.cpp(149,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Player.cpp(148,11): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Player.cpp(147,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Player.cpp(146,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Player.cpp(161,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Player.cpp(160,11): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Player.cpp(159,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Player.cpp(158,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Player.cpp(173,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Player.cpp(172,11): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Player.cpp(171,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Player.cpp(170,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Player.cpp(199,143): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Player.cpp(199,109): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Player.cpp(199,75): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Player.cpp(199,41): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Player.cpp(220,121): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Player.cpp(231,121): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Player.cpp(499,10): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Player.cpp(500,10): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Player.cpp(521,10): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Player.cpp(522,10): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Player.cpp(544,10): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Player.cpp(545,10): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Player.cpp(585,10): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Player.cpp(586,10): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Player.cpp(617,11): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Player.cpp(618,11): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+CBmpMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 __CxxFrameHandler4
+CBmpMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 __security_check_cookie
+CBmpMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 __std_terminate
+CBmpMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl operator new(unsigned __int64)" (??2@YAPEAX_K@Z)
+CBmpMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl operator delete(void *,unsigned __int64)" (??3@YAXPEAX_K@Z)
+CBmpMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp__invalid_parameter
+CBmpMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp__CrtDbgReport
+CBmpMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "__declspec(dllimport) public: __cdecl std::_Lockit::~_Lockit(void)" (__imp_??1_Lockit@std@@QEAA@XZ)
+CBmpMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "__declspec(dllimport) public: __cdecl std::_Lockit::_Lockit(int)" (__imp_??0_Lockit@std@@QEAA@H@Z)
+CBmpMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 __std_exception_copy
+CBmpMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "const type_info::`vftable'" (??_7type_info@@6B@)
+CBmpMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 __std_exception_destroy
+CBmpMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_lstrcmpW
+CBmpMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl std::_Xlength_error(char const *)" (?_Xlength_error@std@@YAXPEBD@Z)
+CBomb.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_GdiTransparentBlt
+CBomb.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_rand
+CButton.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_GetCursorPos
+CButton.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_ScreenToClient
+CButton.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_PtInRect
+CButton.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_CreatePen
+CButton.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_SelectObject
+CButton.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_GetStockObject
+CButton.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_Rectangle
+CButton.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_DeleteObject
+CButton.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_SetBkMode
+CButton.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_SetTextAlign
+CButton.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_TextOutW
+CButton.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_lstrlenW
+CButton.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp___stdio_common_vswprintf_s
+CEdit.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_BitBlt
+CInGame.obj : error LNK2001: 확인할 수 없는 외부 기호 _purecall
+CInven.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_SetTextColor
+CItem.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_ReleaseDC
+CKeyMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_GetAsyncKeyState
+CMissile.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_Ellipse
+CMyBmp.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_GetDC
+CMyBmp.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_CreateCompatibleDC
+CMyBmp.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_LoadImageW
+CMyBmp.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_DeleteDC
+CObjMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl `eh vector constructor iterator'(void *,unsigned __int64,unsigned __int64,void (__cdecl*)(void *),void (__cdecl*)(void *))" (??_L@YAXPEAX_K1P6AX0@Z2@Z)
+CObjMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl `eh vector destructor iterator'(void *,unsigned __int64,unsigned __int64,void (__cdecl*)(void *))" (??_M@YAXPEAX_K1P6AX0@Z@Z)
+CSceneMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_DestroyWindow
+CSoundMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 FMOD_System_Create
+CSoundMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 FMOD_System_Init
+CSoundMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl operator delete[](void *)" (??_V@YAXPEAX@Z)
+CSoundMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 FMOD_Sound_Release
+CSoundMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 FMOD_System_Release
+CSoundMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 FMOD_System_Close
+CSoundMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 FMOD_Channel_IsPlaying
+CSoundMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 FMOD_System_PlaySound
+CSoundMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 FMOD_Channel_SetVolume
+CSoundMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 FMOD_System_Update
+CSoundMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 FMOD_Channel_SetMode
+CSoundMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 FMOD_Channel_Stop
+CSoundMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp__findfirst64i32
+CSoundMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 FMOD_System_CreateSound
+CSoundMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl operator new[](unsigned __int64)" (??_U@YAPEAX_K@Z)
+CSoundMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_MultiByteToWideChar
+CSoundMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp__findnext64i32
+CSoundMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp__findclose
+CSoundMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_strcpy_s
+CSoundMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_strcat_s
+CStats.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_CreateSolidBrush
+CTileMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 __report_rangecheckfailure
+CTileMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_CreateFileW
+CTileMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_WriteFile
+CTileMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_CloseHandle
+CTileMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_MessageBoxW
+CTileMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_ReadFile
+DefaultWindow.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp__CrtSetDbgFlag
+DefaultWindow.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_LoadStringW
+DefaultWindow.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_LoadAcceleratorsW
+DefaultWindow.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_srand
+DefaultWindow.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp__time64
+DefaultWindow.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_GetTickCount
+DefaultWindow.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_PeekMessageW
+DefaultWindow.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_TranslateAcceleratorW
+DefaultWindow.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_TranslateMessage
+DefaultWindow.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_DispatchMessageW
+DefaultWindow.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_LoadIconW
+DefaultWindow.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_LoadCursorW
+DefaultWindow.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_RegisterClassExW
+DefaultWindow.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_AdjustWindowRect
+DefaultWindow.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_CreateWindowExW
+DefaultWindow.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_ShowWindow
+DefaultWindow.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_UpdateWindow
+DefaultWindow.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_DialogBoxParamW
+DefaultWindow.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_DefWindowProcW
+DefaultWindow.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_PostQuitMessage
+DefaultWindow.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_EndDialog
+MainGame.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_SetWindowTextW
+LINK : error LNK2001: 확인할 수 없는 외부 기호 wWinMainCRTStartup
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\x64\Release\DefaultWindow.exe : fatal error LNK1120: 92개의 확인할 수 없는 외부 참조입니다.

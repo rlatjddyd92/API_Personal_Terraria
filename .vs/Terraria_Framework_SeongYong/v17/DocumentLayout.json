@@ -1,0 +1,1302 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\MainGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\MainGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CTileMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CTileMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CTileMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CTileMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CEdit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CEdit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CEdit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CEdit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CBmpMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CBmpMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CBmpMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CBmpMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMyBmp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CMyBmp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMyBmp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CMyBmp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CSceneMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CSceneMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CInven.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CInven.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\MainGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\MainGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CNumber.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CNumber.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CStats.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CStats.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CInvenMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CInvenMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CObjMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CObjMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CObjMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CObjMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CCollisionMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CCollisionMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CMainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMainMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CMainMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\Define.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\Define.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CAbstractFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CAbstractFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CScrollMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CScrollMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CScrollMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CScrollMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CSceneMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CSceneMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CKeyMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CKeyMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CKeyMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CKeyMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\Obj.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\Obj.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\Obj.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\Obj.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMonster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CMonster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CImageButton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CImageButton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CImageButton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CImageButton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CButton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CButton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CInGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CInGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CFunitureMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CFunitureMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CFunitureMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CFunitureMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CItem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CItem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CBomb.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CBomb.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CBomb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CBomb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CItem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CItem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CDynamiteMan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CDynamiteMan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMouse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CMouse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMouse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CMouse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CInGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CInGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CEfeect.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CEfeect.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMonster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CMonster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CFire.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CFire.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CAchievment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CAchievment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CAchievment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CAchievment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMessage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CMessage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMessage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CMessage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CInven.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CInven.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CSoundMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CSoundMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMissile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CMissile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMissile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CMissile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CExplosion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CExplosion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CEfeect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CEfeect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CFire.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CFire.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CExplosion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CExplosion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CButton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CButton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CInvenMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CInvenMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\crt\\src\\vcruntime\\new_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CSoundMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CSoundMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CBoss.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CBoss.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_io.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CStats.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CStats.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMelee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CMelee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMelee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CMelee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CCollisionMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CCollisionMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553B75A8-A56F-4017-99B6-FD90134916CA}|DefaultWindow\\DefaultWindow.vcxproj|solutionrelative:DefaultWindow\\CScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\crt\\src\\vcruntime\\delete_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um\\winioctl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\utility||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xtree||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\list||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CEdit.cpp",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CEdit.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\CEdit.cpp",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CEdit.cpp",
+              "RelativeToolTip": "DefaultWindow\\CEdit.cpp",
+              "ViewState": "AQIAAMsAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T05:08:36.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CMyBmp.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMyBmp.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\CMyBmp.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMyBmp.h",
+              "RelativeToolTip": "DefaultWindow\\CMyBmp.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:36.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CBmpMgr.cpp",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CBmpMgr.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\CBmpMgr.cpp",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CBmpMgr.cpp",
+              "RelativeToolTip": "DefaultWindow\\CBmpMgr.cpp",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAAAJ8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T05:08:36.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CTileMgr.cpp",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CTileMgr.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\CTileMgr.cpp",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CTileMgr.cpp",
+              "RelativeToolTip": "DefaultWindow\\CTileMgr.cpp",
+              "ViewState": "AQIAAB8DAAAAAAAAAAAAAFEDAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T05:08:36.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CTileMgr.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CTileMgr.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\CTileMgr.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CTileMgr.h",
+              "RelativeToolTip": "DefaultWindow\\CTileMgr.h",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CMyBmp.cpp",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMyBmp.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\CMyBmp.cpp",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMyBmp.cpp",
+              "RelativeToolTip": "DefaultWindow\\CMyBmp.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T05:08:37.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CSceneMgr.cpp",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CSceneMgr.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\CSceneMgr.cpp",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CSceneMgr.cpp",
+              "RelativeToolTip": "DefaultWindow\\CSceneMgr.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAgwCkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T05:08:37.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainGame.cpp",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\MainGame.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\MainGame.cpp",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\MainGame.cpp",
+              "RelativeToolTip": "DefaultWindow\\MainGame.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAC4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T05:08:37.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CScrollMgr.cpp",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CScrollMgr.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\CScrollMgr.cpp",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CScrollMgr.cpp",
+              "RelativeToolTip": "DefaultWindow\\CScrollMgr.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T05:08:37.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CBmpMgr.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CBmpMgr.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\CBmpMgr.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CBmpMgr.h",
+              "RelativeToolTip": "DefaultWindow\\CBmpMgr.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CEdit.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CEdit.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\CEdit.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CEdit.h",
+              "RelativeToolTip": "DefaultWindow\\CEdit.h",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CInven.cpp",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CInven.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\CInven.cpp",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CInven.cpp",
+              "RelativeToolTip": "DefaultWindow\\CInven.cpp",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T05:08:37.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainGame.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\MainGame.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\MainGame.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\MainGame.h",
+              "RelativeToolTip": "DefaultWindow\\MainGame.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CNumber.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CNumber.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\CNumber.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CNumber.h",
+              "RelativeToolTip": "DefaultWindow\\CNumber.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CNumber.cpp",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CNumber.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\CNumber.cpp",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CNumber.cpp",
+              "RelativeToolTip": "DefaultWindow\\CNumber.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T05:08:37.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CStats.cpp",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CStats.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\CStats.cpp",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CStats.cpp",
+              "RelativeToolTip": "DefaultWindow\\CStats.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T05:08:37.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CInvenMgr.cpp",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CInvenMgr.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\CInvenMgr.cpp",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CInvenMgr.cpp",
+              "RelativeToolTip": "DefaultWindow\\CInvenMgr.cpp",
+              "ViewState": "AQIAAD0BAAAAAAAAAAAAAE8BAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T05:08:37.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CObjMgr.cpp",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CObjMgr.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\CObjMgr.cpp",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CObjMgr.cpp",
+              "RelativeToolTip": "DefaultWindow\\CObjMgr.cpp",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwBoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T05:08:37.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CObjMgr.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CObjMgr.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\CObjMgr.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CObjMgr.h",
+              "RelativeToolTip": "DefaultWindow\\CObjMgr.h",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CCollisionMgr.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CCollisionMgr.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\CCollisionMgr.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CCollisionMgr.h",
+              "RelativeToolTip": "DefaultWindow\\CCollisionMgr.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CMainMenu.cpp",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMainMenu.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\CMainMenu.cpp",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMainMenu.cpp",
+              "RelativeToolTip": "DefaultWindow\\CMainMenu.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T05:08:37.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CMainMenu.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMainMenu.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\CMainMenu.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMainMenu.h",
+              "RelativeToolTip": "DefaultWindow\\CMainMenu.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\Player.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\Player.cpp",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\Player.cpp",
+              "RelativeToolTip": "DefaultWindow\\Player.cpp",
+              "ViewState": "AQIAANgBAAAAAAAAAAAAAOwBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T05:08:37.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Define.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\Define.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\Define.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\Define.h",
+              "RelativeToolTip": "DefaultWindow\\Define.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "stdafx.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\stdafx.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\stdafx.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\stdafx.h",
+              "RelativeToolTip": "DefaultWindow\\stdafx.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwCAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CAbstractFactory.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CAbstractFactory.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\CAbstractFactory.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CAbstractFactory.h",
+              "RelativeToolTip": "DefaultWindow\\CAbstractFactory.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CScrollMgr.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CScrollMgr.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\CScrollMgr.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CScrollMgr.h",
+              "RelativeToolTip": "DefaultWindow\\CScrollMgr.h",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CSceneMgr.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CSceneMgr.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\CSceneMgr.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CSceneMgr.h",
+              "RelativeToolTip": "DefaultWindow\\CSceneMgr.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CKeyMgr.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CKeyMgr.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\CKeyMgr.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CKeyMgr.h",
+              "RelativeToolTip": "DefaultWindow\\CKeyMgr.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CKeyMgr.cpp",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CKeyMgr.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\CKeyMgr.cpp",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CKeyMgr.cpp",
+              "RelativeToolTip": "DefaultWindow\\CKeyMgr.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T05:08:37.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Obj.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\Obj.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\Obj.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\Obj.h",
+              "RelativeToolTip": "DefaultWindow\\Obj.h",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAEMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Obj.cpp",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\Obj.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\Obj.cpp",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\Obj.cpp",
+              "RelativeToolTip": "DefaultWindow\\Obj.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T05:08:37.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Player.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\Player.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\Player.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\Player.h",
+              "RelativeToolTip": "DefaultWindow\\Player.h",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CMonster.cpp",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMonster.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\CMonster.cpp",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMonster.cpp",
+              "RelativeToolTip": "DefaultWindow\\CMonster.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T05:08:37.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CImageButton.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CImageButton.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\CImageButton.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CImageButton.h",
+              "RelativeToolTip": "DefaultWindow\\CImageButton.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CImageButton.cpp",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CImageButton.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\CImageButton.cpp",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CImageButton.cpp",
+              "RelativeToolTip": "DefaultWindow\\CImageButton.cpp",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAHQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T05:08:37.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CButton.cpp",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CButton.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\CButton.cpp",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CButton.cpp",
+              "RelativeToolTip": "DefaultWindow\\CButton.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T05:08:37.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CItem.cpp",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CItem.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\CItem.cpp",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CItem.cpp",
+              "RelativeToolTip": "DefaultWindow\\CItem.cpp",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T05:08:37.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CFunitureMgr.cpp",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CFunitureMgr.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\CFunitureMgr.cpp",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CFunitureMgr.cpp",
+              "RelativeToolTip": "DefaultWindow\\CFunitureMgr.cpp",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAAAJQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T05:08:37.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CBomb.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CBomb.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\CBomb.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CBomb.h",
+              "RelativeToolTip": "DefaultWindow\\CBomb.h",
+              "ViewState": "AQIAABIAAAAAAAAAAAArwBoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CDynamiteMan.cpp",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CDynamiteMan.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\CDynamiteMan.cpp",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CDynamiteMan.cpp",
+              "RelativeToolTip": "DefaultWindow\\CDynamiteMan.cpp",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAFYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T05:08:37.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CInGame.cpp",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CInGame.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\CInGame.cpp",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CInGame.cpp",
+              "RelativeToolTip": "DefaultWindow\\CInGame.cpp",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAKAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T05:08:37.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CBomb.cpp",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CBomb.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\CBomb.cpp",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CBomb.cpp",
+              "RelativeToolTip": "DefaultWindow\\CBomb.cpp",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAAABQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T05:08:37.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CFunitureMgr.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CFunitureMgr.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\CFunitureMgr.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CFunitureMgr.h",
+              "RelativeToolTip": "DefaultWindow\\CFunitureMgr.h",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAAEMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CItem.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CItem.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\CItem.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CItem.h",
+              "RelativeToolTip": "DefaultWindow\\CItem.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAArwBcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CMouse.cpp",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMouse.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\CMouse.cpp",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMouse.cpp",
+              "RelativeToolTip": "DefaultWindow\\CMouse.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T05:08:37.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "list",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\list",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\list",
+              "ViewState": "AQIAAC8EAAAAAAAAAAArwEAEAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-06T03:21:17.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CInGame.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CInGame.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\CInGame.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CInGame.h",
+              "RelativeToolTip": "DefaultWindow\\CInGame.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CMouse.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMouse.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\CMouse.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMouse.h",
+              "RelativeToolTip": "DefaultWindow\\CMouse.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CEfeect.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CEfeect.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\CEfeect.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CEfeect.h",
+              "RelativeToolTip": "DefaultWindow\\CEfeect.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CMonster.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMonster.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\CMonster.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMonster.h",
+              "RelativeToolTip": "DefaultWindow\\CMonster.h",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CAchievment.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CAchievment.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\CAchievment.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CAchievment.h",
+              "RelativeToolTip": "DefaultWindow\\CAchievment.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CFire.cpp",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CFire.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\CFire.cpp",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CFire.cpp",
+              "RelativeToolTip": "DefaultWindow\\CFire.cpp",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAAAK0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T05:08:37.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CAchievment.cpp",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CAchievment.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\CAchievment.cpp",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CAchievment.cpp",
+              "RelativeToolTip": "DefaultWindow\\CAchievment.cpp",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T05:08:37.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CMessage.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMessage.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\CMessage.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMessage.h",
+              "RelativeToolTip": "DefaultWindow\\CMessage.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CMessage.cpp",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMessage.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\CMessage.cpp",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMessage.cpp",
+              "RelativeToolTip": "DefaultWindow\\CMessage.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T05:08:37.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CInven.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CInven.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\CInven.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CInven.h",
+              "RelativeToolTip": "DefaultWindow\\CInven.h",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "utility",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\utility",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\utility",
+              "ViewState": "AQIAAOgCAAAAAAAAAAArwPQCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-01T12:53:45.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CSoundMgr.cpp",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CSoundMgr.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\CSoundMgr.cpp",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CSoundMgr.cpp",
+              "RelativeToolTip": "DefaultWindow\\CSoundMgr.cpp",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T05:08:37.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CMissile.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMissile.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\CMissile.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMissile.h",
+              "RelativeToolTip": "DefaultWindow\\CMissile.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CExplosion.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CExplosion.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\CExplosion.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CExplosion.h",
+              "RelativeToolTip": "DefaultWindow\\CExplosion.h",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CMissile.cpp",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMissile.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\CMissile.cpp",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMissile.cpp",
+              "RelativeToolTip": "DefaultWindow\\CMissile.cpp",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAGEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T05:08:37.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CEfeect.cpp",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CEfeect.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\CEfeect.cpp",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CEfeect.cpp",
+              "RelativeToolTip": "DefaultWindow\\CEfeect.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T05:08:37.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CFire.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CFire.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\CFire.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CFire.h",
+              "RelativeToolTip": "DefaultWindow\\CFire.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CExplosion.cpp",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CExplosion.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\CExplosion.cpp",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CExplosion.cpp",
+              "RelativeToolTip": "DefaultWindow\\CExplosion.cpp",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAF0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T05:08:37.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CScene.cpp",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CScene.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\CScene.cpp",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CScene.cpp",
+              "RelativeToolTip": "DefaultWindow\\CScene.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T05:08:37.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "CButton.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CButton.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\CButton.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CButton.h",
+              "RelativeToolTip": "DefaultWindow\\CButton.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "xtree",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xtree",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xtree",
+              "ViewState": "AQIAAKQAAAAAAAAAAAArwKoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-01T12:53:45.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Microsoft.CppBuild.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
+              "ViewState": "AQIAAP8BAAAAAAAAAAAlwBICAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-02-01T03:44:25.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "CInvenMgr.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CInvenMgr.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\CInvenMgr.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CInvenMgr.h",
+              "RelativeToolTip": "DefaultWindow\\CInvenMgr.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "new_scalar.cpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\crt\\src\\vcruntime\\new_scalar.cpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\crt\\src\\vcruntime\\new_scalar.cpp",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwCAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-01-23T12:47:11.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "CSoundMgr.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CSoundMgr.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\CSoundMgr.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CSoundMgr.h",
+              "RelativeToolTip": "DefaultWindow\\CSoundMgr.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "CBoss.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CBoss.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\CBoss.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CBoss.h",
+              "RelativeToolTip": "DefaultWindow\\CBoss.h",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "corecrt_io.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_io.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_io.h",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAB4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-01-29T06:18:41.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "winioctl.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um\\winioctl.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um\\winioctl.h",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAAKwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-01-29T06:38:43.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "CStats.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CStats.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\CStats.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CStats.h",
+              "RelativeToolTip": "DefaultWindow\\CStats.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "CMelee.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMelee.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\CMelee.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMelee.h",
+              "RelativeToolTip": "DefaultWindow\\CMelee.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "CMelee.cpp",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMelee.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\CMelee.cpp",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CMelee.cpp",
+              "RelativeToolTip": "DefaultWindow\\CMelee.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T05:08:37.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "CCollisionMgr.cpp",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CCollisionMgr.cpp",
+              "RelativeDocumentMoniker": "DefaultWindow\\CCollisionMgr.cpp",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CCollisionMgr.cpp",
+              "RelativeToolTip": "DefaultWindow\\CCollisionMgr.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACAAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T05:08:37.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "CScene.h",
+              "DocumentMoniker": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CScene.h",
+              "RelativeDocumentMoniker": "DefaultWindow\\CScene.h",
+              "ToolTip": "F:\\\uC218\uC5C5\\API_\uAC1C\uC778\uC2DC\uC5F0\\API_\uD504\uB808\uC784\uC6CC\uD06C_\uC2DC\uC5F0_\uD14C\uB77C\uB9AC\uC544_\uAE40\uC131\uC6A9\\DefaultWindow\\CScene.h",
+              "RelativeToolTip": "DefaultWindow\\CScene.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:08:37.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "delete_scalar.cpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ViewState": "AQIAABAAAAAAAAAAAAAmwCQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-01-23T07:41:30.143Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

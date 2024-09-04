@@ -1,0 +1,128 @@
+﻿  CBmpMgr.cpp
+  CBomb.cpp
+  CBoss.cpp
+  CButton.cpp
+  CCollisionMgr.cpp
+  CDynamiteMan.cpp
+  CEdit.cpp
+  CExplosion.cpp
+  CImageButton.cpp
+  CInGame.cpp
+/CBmpMgr.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. 'CBmpMgr.cpp': No such file or directory
+  CInven.cpp
+  (소스 파일 '/CBmpMgr.cpp'을(를) 컴파일하는 중)
+  
+/CBomb.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. 'CBomb.cpp': No such file or directory
+  (소스 파일 '/CBomb.cpp'을(를) 컴파일하는 중)
+  
+/CBoss.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. 'CBoss.cpp': No such file or directory
+  (소스 파일 '/CBoss.cpp'을(를) 컴파일하는 중)
+  
+/CButton.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. 'CButton.cpp': No such file or directory
+  (소스 파일 '/CButton.cpp'을(를) 컴파일하는 중)
+  
+/CCollisionMgr.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. 'CCollisionMgr.cpp': No such file or directory
+  (소스 파일 '/CCollisionMgr.cpp'을(를) 컴파일하는 중)
+  
+/CDynamiteMan.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. 'CDynamiteMan.cpp': No such file or directory
+  (소스 파일 '/CDynamiteMan.cpp'을(를) 컴파일하는 중)
+  
+/CEdit.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. 'CEdit.cpp': No such file or directory
+  (소스 파일 '/CEdit.cpp'을(를) 컴파일하는 중)
+  
+/CExplosion.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. 'CExplosion.cpp': No such file or directory
+  (소스 파일 '/CExplosion.cpp'을(를) 컴파일하는 중)
+  
+/CImageButton.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. 'CImageButton.cpp': No such file or directory
+  (소스 파일 '/CImageButton.cpp'을(를) 컴파일하는 중)
+  
+/CInGame.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. 'CInGame.cpp': No such file or directory
+  (소스 파일 '/CInGame.cpp'을(를) 컴파일하는 중)
+  
+/CInven.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. 'CInven.cpp': No such file or directory
+  (소스 파일 '/CInven.cpp'을(를) 컴파일하는 중)
+  
+  CInvenMgr.cpp
+/CInvenMgr.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. 'CInvenMgr.cpp': No such file or directory
+  (소스 파일 '/CInvenMgr.cpp'을(를) 컴파일하는 중)
+  
+  CItem.cpp
+/CItem.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. 'CItem.cpp': No such file or directory
+  (소스 파일 '/CItem.cpp'을(를) 컴파일하는 중)
+  
+  CKeyMgr.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Define.h(48,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Vector2D' 왼쪽은 무시됩니다.
+  (소스 파일 '/CKeyMgr.cpp'을(를) 컴파일하는 중)
+  
+  CMainMenu.cpp
+/CMainMenu.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. 'CMainMenu.cpp': No such file or directory
+  (소스 파일 '/CMainMenu.cpp'을(를) 컴파일하는 중)
+  
+  CMelee.cpp
+/CMelee.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. 'CMelee.cpp': No such file or directory
+  (소스 파일 '/CMelee.cpp'을(를) 컴파일하는 중)
+  
+  CMissile.cpp
+/CMissile.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. 'CMissile.cpp': No such file or directory
+  (소스 파일 '/CMissile.cpp'을(를) 컴파일하는 중)
+  
+  CMonster.cpp
+/CMonster.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. 'CMonster.cpp': No such file or directory
+  (소스 파일 '/CMonster.cpp'을(를) 컴파일하는 중)
+  
+  CMyBmp.cpp
+/CMyBmp.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. 'CMyBmp.cpp': No such file or directory
+  (소스 파일 '/CMyBmp.cpp'을(를) 컴파일하는 중)
+  
+  CNumber.cpp
+/CNumber.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. 'CNumber.cpp': No such file or directory
+  (소스 파일 '/CNumber.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  CObjMgr.cpp
+/CObjMgr.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. 'CObjMgr.cpp': No such file or directory
+  (소스 파일 '/CObjMgr.cpp'을(를) 컴파일하는 중)
+  
+  CScene.cpp
+/CScene.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. 'CScene.cpp': No such file or directory
+  (소스 파일 '/CScene.cpp'을(를) 컴파일하는 중)
+  
+  CSceneMgr.cpp
+/CSceneMgr.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. 'CSceneMgr.cpp': No such file or directory
+  (소스 파일 '/CSceneMgr.cpp'을(를) 컴파일하는 중)
+  
+  CScrollMgr.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\CScrollMgr.cpp(2,10): error C1083: 포함 파일을 열 수 없습니다. 'CScrollMgr.h': No such file or directory
+  (소스 파일 '/CScrollMgr.cpp'을(를) 컴파일하는 중)
+  
+  CStats.cpp
+/CStats.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. 'CStats.cpp': No such file or directory
+  (소스 파일 '/CStats.cpp'을(를) 컴파일하는 중)
+  
+  CTileMgr.cpp
+/CTileMgr.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. 'CTileMgr.cpp': No such file or directory
+  (소스 파일 '/CTileMgr.cpp'을(를) 컴파일하는 중)
+  
+  MainGame.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Define.h(48,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Vector2D' 왼쪽은 무시됩니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\MainGame.cpp(3,10): error C1083: 포함 파일을 열 수 없습니다. 'CSceneMgr.h': No such file or directory
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+  Obj.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Define.h(48,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Vector2D' 왼쪽은 무시됩니다.
+  (소스 파일 '/Obj.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Obj.cpp(3,10): error C1083: 포함 파일을 열 수 없습니다. 'CTileMgr.h': No such file or directory
+  (소스 파일 '/Obj.cpp'을(를) 컴파일하는 중)
+  
+  Player.cpp
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Define.h(48,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Vector2D' 왼쪽은 무시됩니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rlatj\OneDrive\바탕 화면\수업\시연회\API_프레임워크_시연_테라리아_김성용\DefaultWindow\Player.cpp(4,10): error C1083: 포함 파일을 열 수 없습니다. 'CTileMgr.h': No such file or directory
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...

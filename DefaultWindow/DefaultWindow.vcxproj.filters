@@ -1,0 +1,427 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="00. MainGame">
+      <UniqueIdentifier>{b9c448c8-06e6-4a36-8df4-5e9dcadacf5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj">
+      <UniqueIdentifier>{5ef40d1f-7706-448b-bcff-b647cfb55375}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\00. Player">
+      <UniqueIdentifier>{3d3f9bdc-869a-437d-98e0-9966f4c13ecb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Design">
+      <UniqueIdentifier>{8a88d9b1-3ba3-4783-b1aa-4df6ef77cbbd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. Scene">
+      <UniqueIdentifier>{3a9bb42c-3982-48b9-a894-b6f8e947f546}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Design\00. ScrollMgr">
+      <UniqueIdentifier>{68f78a44-83a3-4b92-87e1-b6e9094e7417}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Design\02. ObjMgr">
+      <UniqueIdentifier>{0792f0af-4ef6-4140-bb64-a639059b7ba1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Design\03. TileMgr">
+      <UniqueIdentifier>{4ff8edc4-0408-4676-9bfe-aff2f8a1397b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Design\04. AbstractFactory">
+      <UniqueIdentifier>{d3d29d63-a319-4f80-b19b-abf1fe266e2a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Design\06. CollisionMgr">
+      <UniqueIdentifier>{0272597d-383c-4333-acb3-0e7b8136996f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Design\07. KeyMgr">
+      <UniqueIdentifier>{c4f81435-d79f-41fd-bb7a-eeb2bd6a7183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Design\08. SceneMgr">
+      <UniqueIdentifier>{80af2da2-47cb-4f26-b7d6-2e093804634a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Design\01. BmpMgr">
+      <UniqueIdentifier>{eae7c00b-564e-4137-af21-a67a6f0d0bca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. Scene\00. CMainMenu">
+      <UniqueIdentifier>{2d0054fe-b7f6-4d47-8ea9-22fb9192d9d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. Scene\01. CEdit">
+      <UniqueIdentifier>{5d1db427-9224-4dec-ad1a-52f6f33fa115}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. Scene\02. CInGame">
+      <UniqueIdentifier>{607fb505-8759-42b3-a94f-e1997fe0f755}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\01. CMonster">
+      <UniqueIdentifier>{886a5dbd-d77f-45c3-85f3-49dc321596dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\02. CBoss">
+      <UniqueIdentifier>{4e077533-d82a-4e01-a3c9-e02a7431732f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\04. CItem">
+      <UniqueIdentifier>{f7da5584-07d7-4ea5-8a96-57b410569287}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\03. CMissile">
+      <UniqueIdentifier>{fed6524f-ac0b-48d6-a537-faa1761234cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\05. CSummon">
+      <UniqueIdentifier>{065a3c55-2607-43e2-a5ce-e7a835287e0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\06. CCatcher">
+      <UniqueIdentifier>{17b9385c-2b6e-4d10-90b6-8c186af67d59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Design\01. BmpMgr\00. MyBmp">
+      <UniqueIdentifier>{0ab0c53e-20f6-4ee2-8d69-deac6b135673}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\07. CUI">
+      <UniqueIdentifier>{46257e92-d0ad-43aa-ac62-761638b2bca0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\07. CUI\00. CButton">
+      <UniqueIdentifier>{2d251bb4-9fe2-4731-a454-1e6894e089ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\07. CUI\01. CInven">
+      <UniqueIdentifier>{46bdcf65-2148-40c1-8781-782d8b7fad79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\07. CUI\02. CStats">
+      <UniqueIdentifier>{3073197a-30c5-4003-8919-3c94942e5f1c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\07. CUI\00. CButton\00. CImageButton">
+      <UniqueIdentifier>{eb05c252-aaaa-4e78-94b1-f84248482d00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Design\05. InvenMgr">
+      <UniqueIdentifier>{7f528a03-12e6-4bd5-8ddb-7c77581e66be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\09. CExplosion">
+      <UniqueIdentifier>{f5280db0-8ed1-42ab-b28d-36d79e0b28ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\08. Melee">
+      <UniqueIdentifier>{0ac828ff-b994-4622-9a8d-53d350e5afa5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\04. CItem\00. CWeapon">
+      <UniqueIdentifier>{64c94215-90dc-43d4-9463-04539c6aa2f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\04. CItem\01. CGun">
+      <UniqueIdentifier>{15c3566e-11b8-4fa2-8e27-8dac71787314}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\04. CItem\02. CBow">
+      <UniqueIdentifier>{cfb5e3e0-27ab-4854-8709-b00bf6bfe40a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\04. CItem\03. CBomb">
+      <UniqueIdentifier>{f9919a39-7be6-421a-9ce9-b073f6028083}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\04. CItem\04. CArmor">
+      <UniqueIdentifier>{33f6f731-2fc6-45f7-9f42-3c9a094d544f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\02. CBoss\00. CDynamiteMan">
+      <UniqueIdentifier>{6558424b-7917-40cd-8d11-e18b618e4591}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\07. CUI\03. CNumber">
+      <UniqueIdentifier>{e79e1d81-5043-4b6c-88e6-031d26f8151d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\10. CFire">
+      <UniqueIdentifier>{e3460da2-cc05-4f66-a28a-91cf5e5090a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\11. CFuniture">
+      <UniqueIdentifier>{f282bc22-1e62-4c63-b80b-0b10c652ab76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\02. CBoss\01. CMage">
+      <UniqueIdentifier>{1a7fcfa1-df45-45be-baab-fa24ada1fbca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\02. CBoss\02. CLavarMon">
+      <UniqueIdentifier>{29e8c599-5d02-441e-bdaa-6ddfbd6eaa2d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Design\09. SoundMgr">
+      <UniqueIdentifier>{fc592114-1dfd-4171-97a3-9e8c3a168804}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Design\10.FunitureMgr">
+      <UniqueIdentifier>{47baf190-68a1-4fc5-abe0-be839af42724}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\07. CUI\04. CMessage">
+      <UniqueIdentifier>{6e70f55d-0cab-49b7-b3b1-033ff852d52c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\12. CEfeect">
+      <UniqueIdentifier>{b5c0b310-278f-4bad-bf5d-2831eadca848}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\07. CUI\05. CAchievment">
+      <UniqueIdentifier>{7a6d03cc-c33b-4e77-ba80-de672afa6be5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Obj\13. CMouse">
+      <UniqueIdentifier>{d671f471-e8cf-40ab-ac2c-2bfaadd91e91}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DefaultWindow.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Define.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Obj.h">
+      <Filter>01. Obj</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>01. Obj\00. Player</Filter>
+    </ClInclude>
+    <ClInclude Include="CScene.h">
+      <Filter>03. Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="CMainMenu.h">
+      <Filter>03. Scene\00. CMainMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="CEdit.h">
+      <Filter>03. Scene\01. CEdit</Filter>
+    </ClInclude>
+    <ClInclude Include="CInGame.h">
+      <Filter>03. Scene\02. CInGame</Filter>
+    </ClInclude>
+    <ClInclude Include="CTileMgr.h">
+      <Filter>02. Design\03. TileMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CScrollMgr.h">
+      <Filter>02. Design\00. ScrollMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CAbstractFactory.h">
+      <Filter>02. Design\04. AbstractFactory</Filter>
+    </ClInclude>
+    <ClInclude Include="CKeyMgr.h">
+      <Filter>02. Design\07. KeyMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CSceneMgr.h">
+      <Filter>02. Design\08. SceneMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CBmpMgr.h">
+      <Filter>02. Design\01. BmpMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CMyBmp.h">
+      <Filter>02. Design\01. BmpMgr\00. MyBmp</Filter>
+    </ClInclude>
+    <ClInclude Include="CButton.h">
+      <Filter>01. Obj\07. CUI\00. CButton</Filter>
+    </ClInclude>
+    <ClInclude Include="CObjMgr.h">
+      <Filter>02. Design\02. ObjMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CImageButton.h">
+      <Filter>01. Obj\07. CUI\00. CButton\00. CImageButton</Filter>
+    </ClInclude>
+    <ClInclude Include="CCollisionMgr.h">
+      <Filter>02. Design\06. CollisionMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CItem.h">
+      <Filter>01. Obj\04. CItem</Filter>
+    </ClInclude>
+    <ClInclude Include="CInven.h">
+      <Filter>01. Obj\07. CUI\01. CInven</Filter>
+    </ClInclude>
+    <ClInclude Include="CInvenMgr.h">
+      <Filter>02. Design\05. InvenMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CExplosion.h">
+      <Filter>01. Obj\09. CExplosion</Filter>
+    </ClInclude>
+    <ClInclude Include="CMissile.h">
+      <Filter>01. Obj\03. CMissile</Filter>
+    </ClInclude>
+    <ClInclude Include="CMelee.h">
+      <Filter>01. Obj\08. Melee</Filter>
+    </ClInclude>
+    <ClInclude Include="CMonster.h">
+      <Filter>01. Obj\01. CMonster</Filter>
+    </ClInclude>
+    <ClInclude Include="CBomb.h">
+      <Filter>01. Obj\04. CItem\03. CBomb</Filter>
+    </ClInclude>
+    <ClInclude Include="MainGame.h">
+      <Filter>00. MainGame</Filter>
+    </ClInclude>
+    <ClInclude Include="CStats.h">
+      <Filter>01. Obj\07. CUI\02. CStats</Filter>
+    </ClInclude>
+    <ClInclude Include="CBoss.h">
+      <Filter>01. Obj\02. CBoss</Filter>
+    </ClInclude>
+    <ClInclude Include="CDynamiteMan.h">
+      <Filter>01. Obj\02. CBoss\00. CDynamiteMan</Filter>
+    </ClInclude>
+    <ClInclude Include="CNumber.h">
+      <Filter>01. Obj\07. CUI\03. CNumber</Filter>
+    </ClInclude>
+    <ClInclude Include="CFire.h">
+      <Filter>01. Obj\10. CFire</Filter>
+    </ClInclude>
+    <ClInclude Include="CSoundMgr.h">
+      <Filter>02. Design\09. SoundMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="fmod.hpp">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="fmod_errors.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CFunitureMgr.h">
+      <Filter>02. Design\10.FunitureMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CMessage.h">
+      <Filter>01. Obj\07. CUI\04. CMessage</Filter>
+    </ClInclude>
+    <ClInclude Include="CEfeect.h">
+      <Filter>01. Obj\12. CEfeect</Filter>
+    </ClInclude>
+    <ClInclude Include="CAchievment.h">
+      <Filter>01. Obj\07. CUI\05. CAchievment</Filter>
+    </ClInclude>
+    <ClInclude Include="CMouse.h">
+      <Filter>01. Obj\13. CMouse</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DefaultWindow.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MainGame.cpp">
+      <Filter>00. MainGame</Filter>
+    </ClCompile>
+    <ClCompile Include="Obj.cpp">
+      <Filter>01. Obj</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>01. Obj\00. Player</Filter>
+    </ClCompile>
+    <ClCompile Include="CScene.cpp">
+      <Filter>03. Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="CMainMenu.cpp">
+      <Filter>03. Scene\00. CMainMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="CEdit.cpp">
+      <Filter>03. Scene\01. CEdit</Filter>
+    </ClCompile>
+    <ClCompile Include="CInGame.cpp">
+      <Filter>03. Scene\02. CInGame</Filter>
+    </ClCompile>
+    <ClCompile Include="CTileMgr.cpp">
+      <Filter>02. Design\03. TileMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CScrollMgr.cpp">
+      <Filter>02. Design\00. ScrollMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CKeyMgr.cpp">
+      <Filter>02. Design\07. KeyMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CSceneMgr.cpp">
+      <Filter>02. Design\08. SceneMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CBmpMgr.cpp">
+      <Filter>02. Design\01. BmpMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CMyBmp.cpp">
+      <Filter>02. Design\01. BmpMgr\00. MyBmp</Filter>
+    </ClCompile>
+    <ClCompile Include="CButton.cpp">
+      <Filter>01. Obj\07. CUI\00. CButton</Filter>
+    </ClCompile>
+    <ClCompile Include="CObjMgr.cpp">
+      <Filter>02. Design\02. ObjMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CImageButton.cpp">
+      <Filter>01. Obj\07. CUI\00. CButton\00. CImageButton</Filter>
+    </ClCompile>
+    <ClCompile Include="CCollisionMgr.cpp">
+      <Filter>02. Design\06. CollisionMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CItem.cpp">
+      <Filter>01. Obj\04. CItem</Filter>
+    </ClCompile>
+    <ClCompile Include="CInven.cpp">
+      <Filter>01. Obj\07. CUI\01. CInven</Filter>
+    </ClCompile>
+    <ClCompile Include="CInvenMgr.cpp">
+      <Filter>02. Design\05. InvenMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CExplosion.cpp">
+      <Filter>01. Obj\09. CExplosion</Filter>
+    </ClCompile>
+    <ClCompile Include="CMissile.cpp">
+      <Filter>01. Obj\03. CMissile</Filter>
+    </ClCompile>
+    <ClCompile Include="CMelee.cpp">
+      <Filter>01. Obj\08. Melee</Filter>
+    </ClCompile>
+    <ClCompile Include="CMonster.cpp">
+      <Filter>01. Obj\01. CMonster</Filter>
+    </ClCompile>
+    <ClCompile Include="CBomb.cpp">
+      <Filter>01. Obj\04. CItem\03. CBomb</Filter>
+    </ClCompile>
+    <ClCompile Include="CStats.cpp">
+      <Filter>01. Obj\07. CUI\02. CStats</Filter>
+    </ClCompile>
+    <ClCompile Include="CBoss.cpp">
+      <Filter>01. Obj\02. CBoss</Filter>
+    </ClCompile>
+    <ClCompile Include="CDynamiteMan.cpp">
+      <Filter>01. Obj\02. CBoss\00. CDynamiteMan</Filter>
+    </ClCompile>
+    <ClCompile Include="CNumber.cpp">
+      <Filter>01. Obj\07. CUI\03. CNumber</Filter>
+    </ClCompile>
+    <ClCompile Include="CFire.cpp">
+      <Filter>01. Obj\10. CFire</Filter>
+    </ClCompile>
+    <ClCompile Include="CSoundMgr.cpp">
+      <Filter>02. Design\09. SoundMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CFunitureMgr.cpp">
+      <Filter>02. Design\10.FunitureMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CMessage.cpp">
+      <Filter>01. Obj\07. CUI\04. CMessage</Filter>
+    </ClCompile>
+    <ClCompile Include="CEfeect.cpp">
+      <Filter>01. Obj\12. CEfeect</Filter>
+    </ClCompile>
+    <ClCompile Include="CAchievment.cpp">
+      <Filter>01. Obj\07. CUI\05. CAchievment</Filter>
+    </ClCompile>
+    <ClCompile Include="CMouse.cpp">
+      <Filter>01. Obj\13. CMouse</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="DefaultWindow.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="DefaultWindow.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
